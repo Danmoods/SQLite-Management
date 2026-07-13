@@ -18,3 +18,5 @@ for row in rows:
 
 # Close database
 conn.close()
+
+print("Data retrieved successfully.")
